@@ -7,8 +7,8 @@
 ## Front-end:
 cd frontend, then run `npm install` to install all the packages
 
-## back-end:
+## Back-end:
 cd backend, then run `npm install` to install all the packages.
 
-## to run:
+## To run:
 cd into frontend, `npm run dev`. then cd backend and run `npm run dev`.
